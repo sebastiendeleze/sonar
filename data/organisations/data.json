@@ -32,8 +32,21 @@
     "platformName": "# ROAR\n#### Répertoire ouvert et archives BEJUNE",
     "files": [
       {
-        "key": "logo.jpg",
+        "key": "logo.png",
         "path": "./hepbejune/logo.png"
+      }
+    ]
+  },
+  {
+    "code": "bcufr",
+    "name": "Bibliothèque Cantonale et Universitaire Fribourg",
+    "isShared": true,
+    "isDedicated": true,
+    "platformName": "### Bibliothèque Cantonale et Universitaire Fribourg",
+    "files": [
+      {
+        "key": "logo.png",
+        "path": "./bcufr/logo.png"
       }
     ]
   }
